@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-beta.13
+
+### Patch Changes
+
+- [#3087](https://github.com/withastro/astro/pull/3087) [`e0f838ca`](https://github.com/withastro/astro/commit/e0f838ca393c974e80f23a07b04c3a85f8829221) Thanks [@tony-sull](https://github.com/tony-sull)! - Adds support for numeric route parameters in getStaticPaths()
+
 ## 1.0.0-beta.12
 
 ### Patch Changes

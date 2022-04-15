@@ -1,5 +1,11 @@
 # @astrojs/vercel
 
+## 0.1.3
+
+### Patch Changes
+
+- [#3051](https://github.com/withastro/astro/pull/3051) [`b0ba22c5`](https://github.com/withastro/astro/commit/b0ba22c5ffab6575706ae904d0ad8cadc3f48d43) Thanks [@JuanM04](https://github.com/JuanM04)! - Fixed issues when converting from ESM to CJS
+
 ## 0.1.2
 
 ### Patch Changes
